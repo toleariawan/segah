@@ -6,7 +6,13 @@
     <title>Document</title>
 </head>
 <body>
-   Desa Segah nongan
-segah dalah desa 
+   <div class="mb-3">
+  <label for="username" class="form-label">Username</label>
+  <input type="text" class="form-control" id="username" placeholder="username..">
+</div>
+ <div class="mb-3">
+  <label for="password" class="form-label">Username</label>
+  <input type="email" class="form-control" id="password" placeholder="password..">
+</div> 
 </body>
 </html>
